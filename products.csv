@@ -1,0 +1,101 @@
+product_id,product_name,product_category,unit_price,current_stock_level
+P001,Smartphone 814,Electronics,211.88,142
+P002,Chair 881,Home,-168.96,47
+P003,Fiction Book 467,Books,423.9,309
+P004,Football 847,Sports,230.25,63
+P005,Fiction Book 665,Books,147.3,321
+P006,Chocolate 296,Food,352.58,23
+P007,Lotion 181,Beauty,427.8,443
+P008,Sneakers 384,Clothing,227.25,427
+P009,Beverages 479,Food,178.28,343
+P010,Football 723,Sports,317.85,273
+P011,Perfume 573,Beauty,190.35,473
+P012,Lotion 963,Beauty,384.39,28
+P013,Lipstick 924,Beauty,158.41,137
+P014,Jeans 680,Clothing,438.31,161
+P015,Soap 505,Beauty,442.46,329
+P016,Doll 371,Toys,70.68,381
+P017,Golf Clubs 538,Sports,449.01,204
+P018,Beverages 241,Food,255.25,46
+P019,Laptop 256,Electronics,314.1,405
+P020,Cookbook 165,Books,193.0,305
+P021,Toy Car 357,Toys,485.57,440
+P022,TV 838,Electronics,58.16,453
+P023,Tennis Racket 214,Sports,147.46,80
+P024,Action Figure 839,Toys,438.05,134
+P025,Cookware 208,Home,435.39,152
+P026,Perfume 482,Beauty,381.49,276
+P027,Camera 431,Electronics,244.81,57
+P028,Fruits 345,Food,29.9,449
+P029,Shirt 849,Clothing,243.51,35
+P030,Chair 775,Home,238.17,281
+P031,Lamp 640,Home,436.34,216
+P032,Shampoo 873,Beauty,365.24,102
+P033,Basketball 787,Sports,325.29,224
+P034,Action Figure 353,Toys,113.12,173
+P035,Camera 667,Electronics,115.83,112
+P036,Laptop 824,Electronics,315.92,117
+P037,Shirt 980,Clothing,165.88,263
+P038,Lotion 785,Beauty,243.22,276
+P039,Cookware 690,Home,236.86,401
+P040,Board Game 294,Toys,48.07,337
+P041,Comic Book 533,Books,206.14,442
+P042,TV 769,Electronics,492.1,50
+P043,Headphones 845,Electronics,-170.31,441
+P044,Jeans 296,Clothing,95.91,229
+P045,Table 287,Home,-139.99,127
+P046,Sneakers 927,Clothing,430.81,281
+P047,Shirt 767,Clothing,499.64,428
+P048,Laptop 871,Electronics,424.5,85
+P049,Magazine 592,Books,107.66,205
+P050,Smartphone 488,Electronics,2.08,199
+P051,Basketball 392,Sports,212.08,490
+P052,Doll 294,Toys,149.06,495
+P053,Camera 853,Electronics,271.56,382
+P054,Snacks 151,Food,292.5,257
+P055,Sofa 620,Home,40.98,95
+P056,Hat 169,Clothing,337.93,120
+P057,Fiction Book 683,Books,123.86,304
+P058,Camera 183,Electronics,210.19,298
+P059,Fruits 309,Food,335.19,160
+P060,Lotion 505,Beauty,66.31,330
+P061,Basketball 423,Sports,464.58,479
+P062,Shirt 569,Clothing,310.96,288
+P063,Shirt 650,Clothing,107.36,135
+P064,Lamp 170,Home,439.76,189
+P065,Bicycle 548,Sports,417.04,360
+P066,Golf Clubs 926,Sports,327.33,4
+P067,Football 999,Sports,68.01,59
+P068,Hat 259,Clothing,136.9,309
+P069,Lotion 308,Beauty,344.06,436
+P070,Golf Clubs 600,Sports,126.31,464
+P071,Laptop 749,Electronics,212.36,141
+P072,Laptop 441,Electronics,385.79,326
+P073,Bicycle 859,Sports,221.48,361
+P074,Cookbook 109,Books,56.83,483
+P075,Cookware 136,Home,417.46,298
+P076,Table 230,Home,21.87,186
+P077,Tablet 315,Electronics,341.35,341
+P078,Jacket 898,Clothing,280.38,447
+P079,Cookbook 867,Books,78.12,476
+P080,Perfume 919,Beauty,405.58,451
+P081,Fiction Book 283,Books,368.55,170
+P082,Non-fiction Book 373,Books,-80.44,359
+P083,Sneakers 993,Clothing,20.32,240
+P084,Perfume 936,Beauty,459.31,179
+P085,Bicycle 328,Sports,12.81,98
+P086,Comic Book 385,Books,432.31,495
+P087,Tennis Racket 756,Sports,255.19,347
+P088,Snacks 218,Food,438.64,133
+P089,Cookware 371,Home,-20.09,305
+P090,Comic Book 846,Books,393.43,223
+P091,Sneakers 690,Clothing,95.85,22
+P092,Fiction Book 632,Books,462.86,275
+P093,Lotion 541,Beauty,35.92,340
+P094,Chocolate 421,Food,332.03,63
+P095,Golf Clubs 416,Sports,333.78,167
+P096,Comic Book 667,Books,64.52,215
+P097,Non-fiction Book 730,Books,284.98,207
+P098,Tablet 393,Electronics,105.88,402
+P099,Vegetables 552,Food,221.64,109
+P100,Doll 774,Toys,43.31,263

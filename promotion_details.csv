@@ -1,0 +1,11 @@
+promotion_id,promotion_name,start_date,end_date,discount_percent,applicable_category
+PROMO_01,New Year Sale,2025-02-26,2025-04-09,50.0,Beauty
+PROMO_02,Spring Sale,2025-02-28,2025-04-12,25.0,ALL
+PROMO_03,Summer Clearance,2025-11-25,2025-12-07,15.0,ALL
+PROMO_04,Back to School Deals,2025-03-29,2025-04-13,40.0,Clothing
+PROMO_05,Holiday Promotion,2025-06-14,2025-07-13,35.0,Beauty
+PROMO_06,Black Friday,2025-10-15,2025-11-29,35.0,Beauty
+PROMO_07,Cyber Monday,2025-05-04,2025-05-13,5.0,Clothing
+PROMO_08,Anniversary Sale,2025-04-26,2025-06-14,35.0,ALL
+PROMO_09,Flash Sale,2025-07-21,2025-09-10,45.0,Beauty
+PROMO_10,Weekend Special,2025-09-26,2025-11-23,10.0,Toys
